@@ -5,7 +5,7 @@
 This project dives into a detailed financial analysis, focusing on statistical and theoretical concepts to explore stock returns, their properties, and key financial hypotheses. The project provides valuable insights into market behavior and portfolio management through real-world data and statistical tools.
 
 
-**Key Objectives**
+🎯 **Key Objectives**
 
 **Exercise 1:**
 * Compute daily, monthly, and annual log-returns for a selected stock.
@@ -28,7 +28,7 @@ This project dives into a detailed financial analysis, focusing on statistical a
 * Visualize and critically discuss the results.
 
 
-**Applications**
+💡 **Applications**
 * Applied statistical measures on the returns.
 * Used the Single-Index Model to analyze risk and return.
 * Understanding the distribution of the data.
@@ -36,6 +36,6 @@ This project dives into a detailed financial analysis, focusing on statistical a
 * Critically evaluated relationships between covariance and beta values.
 * Improved visualization and interpretation of financial data.
 
-**Files Included** 
+📂 **Files Included** 
 1. **Jupyter Notebook**: Detailed report that includes script (all calculations, visualizations, and regression analysis) and explanation. 
 2. **Data**: Real-world stock return data and interest rates used for analysis.
