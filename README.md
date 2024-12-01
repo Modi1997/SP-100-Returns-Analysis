@@ -29,11 +29,13 @@ This project dives into a detailed financial analysis, focusing on statistical a
 
 
 **Applications**
-* Applied statistical measures like skewness and kurtosis.
+* Applied statistical measures on the returns.
 * Used the Single-Index Model to analyze risk and return.
+* Understanding the distribution of the data.
+* Hypothesis analysis.
 * Critically evaluated relationships between covariance and beta values.
 * Improved visualization and interpretation of financial data.
 
 **Files Included** 
-1. Main Python Scripts: * Detailed report that includes script (all calculations, visualizations, and regression analysis) and explanation. 
-2. Data: * Real-world stock return data and interest rates used for analysis.
+1. **Jupyter Notebook**: Detailed report that includes script (all calculations, visualizations, and regression analysis) and explanation. 
+2. **Data**: Real-world stock return data and interest rates used for analysis.
